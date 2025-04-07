@@ -151,3 +151,9 @@ npm run dev
 ## License
 
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Deployment
+
+The application is deployed on the Laravel Cloud platform and can be accessed at the following URL:
+
+[https://assessment-task-main-89dize.laravel.cloud/](https://assessment-task-main-89dize.laravel.cloud/)
